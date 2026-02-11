@@ -2,7 +2,9 @@
 
 This repository tracks my foundational learning for software engineering.
 
-### Includes
-- Git & GitHub practices
-- Backend fundamentals (upcoming)
-- Notes and small experiments
+### Focus Areas
+- Git & GitHub best practices
+- Backend fundamentals (Node.js, APIs)
+- Clean code and documentation
+
+DSA practice is tracked separately to maintain focus.
